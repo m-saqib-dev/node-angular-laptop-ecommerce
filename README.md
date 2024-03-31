@@ -1,3 +1,6 @@
-# Welcome
+# Welcome to the LaptopShop
 
-this project is buit with angular
+LaptopShop is the E-commerce website
+
+
+this project is built with angular
